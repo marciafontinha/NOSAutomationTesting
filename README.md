@@ -313,6 +313,7 @@ newman run collections/GoREST_Todo_Tests.postman_collection.json
 - Validação do campo `due_on` para garantir que seja uma data válida.
 
 **4. DevOps, CI/CD.**
+
 4.1. Explica e justifica uma implementação de testes de carga a esta API: 
 
 Os testes de carga são cruciais para garantir que a API GoREST possa lidar com um alto volume de solicitações em simultâneo sem comprometer a performance e a funcionalidade. A implementação de testes de carga permite identificar e prever o 
